@@ -1,0 +1,19 @@
+#mynavbar-header{
+	background-color:grey ;
+}
+
+#mynavbar-list{
+	background-color:lightgray ;
+}
+
+.nav-item:hover{
+	background-color:grey ;
+}
+
+
+.menu-description{
+	background-color:lightgray;
+	margin-left:20px;
+	margin-right:20px;
+	font-size: 1.2em;
+}
