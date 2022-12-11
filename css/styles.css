@@ -23,4 +23,6 @@
 .nav-link{
 	color:black;
 	font-size:1.2em;
+	border-style: solid;
+	border-color:grey;
 }
